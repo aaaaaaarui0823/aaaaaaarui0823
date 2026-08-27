@@ -1,16 +1,15 @@
-## Hi there 👋
+# 田芮 👋
 
-<!--
-**aaaaaaarui0823/aaaaaaarui0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an independent developer interested in AI agent security, large language model safety, and intelligent risk detection systems.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Agent Security and Safety
+- Large Language Model Security and Prompt Injection Detection
+- Semantic Search and Hybrid Information Retrieval
+- Security Knowledge Bases and Automated Risk Evaluation
+
+## Contact
+
+- Email: tianrui@novoordo.ai
+- GitHub: https://github.com/aaaaaaarui0823
